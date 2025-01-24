@@ -1,0 +1,5 @@
+com/example/workflow/entity/PublicationLinkdin.class
+com/example/workflow/Application.class
+com/example/workflow/service/PublicationService.class
+com/example/workflow/controlller/PublicationRessource.class
+com/example/workflow/entity/PublicationYoutube.class
